@@ -4,13 +4,13 @@ This repository contains projects completed during Semester 3 of my Bachelor of 
 
 ## Projects
 
-### 1. Snake Game using Data Structures (Linked List) and Database
+### 1. Snake Game using Data Structures 
 - Developed using Data Structures and Algorithms (DSA)
 - Implemented Snake Game using Linked List concept
 - Integrated database to store game-related data
 - Demonstrates understanding of dynamic memory and data handling
 
-### 2. Event Management System (SQL)
+### 2. Event Management System 
 - Developed using SQL and database concepts
 - Allows management of events, participants, and scheduling
 - Includes database design and query implementation
